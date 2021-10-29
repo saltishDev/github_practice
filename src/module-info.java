@@ -1,2 +1,0 @@
-module github_practice {
-}
